@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "H:\\AvaterProjects\\android\\build\\intermediates\\res\\merged\\debug\\menu\\encode.xml",
+        "source": "H:\\AvaterProjects\\android\\src\\main\\res\\menu\\encode.xml"
+    },
+    {
+        "merged": "H:\\AvaterProjects\\android\\build\\intermediates\\res\\merged\\debug\\menu\\history.xml",
+        "source": "H:\\AvaterProjects\\android\\src\\main\\res\\menu\\history.xml"
+    },
+    {
+        "merged": "H:\\AvaterProjects\\android\\build\\intermediates\\res\\merged\\debug\\menu\\capture.xml",
+        "source": "H:\\AvaterProjects\\android\\src\\main\\res\\menu\\capture.xml"
+    }
+]
